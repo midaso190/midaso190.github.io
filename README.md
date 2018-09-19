@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>een website over mijzelf</title>
+  <h1>een website over mijzelf</h1>
 </head>
 <body>
   <h1>Over mijzelf</h1>
