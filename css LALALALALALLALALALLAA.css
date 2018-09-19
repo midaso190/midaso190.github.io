@@ -1,0 +1,27 @@
+body
+{
+  background-color: lightgreen;
+  color: purple;
+  font-family: Verdana;
+}
+table
+{
+  color: blue;
+}
+li
+{
+  color: darkgreen
+}
+td
+{
+  background-color: green;
+}
+th
+{
+  background-color: darkgreen;
+}
+body
+{
+  border-style: double;
+}
+  
