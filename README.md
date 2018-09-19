@@ -1,5 +1,4 @@
 # midaso190.github.io
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
@@ -13,7 +12,7 @@
   <ul>
     <li><strong>gamen </strong><br></li>
     <li><strong> tekenen</strong><br></li>
-    <li><strong> <a href=https://scratch.mit.edu/search/projects?q=midas3>scratch</a></strong><br></li>
+    <li><a href=https://scratch.mit.edu/search/projects?q=midas3>scratch</a><br></li>
   </ul>
   <h1>contact</h1>
   <ul>
