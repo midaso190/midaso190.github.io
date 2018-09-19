@@ -83,7 +83,7 @@
       <td><a href=https://nl.wikipedia.org/wiki/Aardbei>aardbei</a></td>
       <td><img width="50px" src="https://www.vangeldernederland.nl/static/uploads-cms2/aardbeien-blog.jpg"></td>
     </tr>
-  </body>
+  </table>
   <h1>Mijn favo serie</h1>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/4sBj_PI3zG0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   <h1>Metis</h1>
