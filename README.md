@@ -60,27 +60,27 @@
     </tr>
     <tr>
       <td>1</td>
-      <td><a href=https://nl.wikipedia.org/wiki/Mango>mango</a></td>
+      <td><a href= https://nl.wikipedia.org/wiki/Mango>mango</a></td>
       <td><img width="50px" src="https://www.specialfruit.com/nl/thumbnail/productFull/product-1422538408/mango-by-air.jpg"></td>
     </tr>
     <tr>
       <td>2</td>
-      <td><a href=https://nl.wikipedia.org/wiki/Framboos>framboos</a></td>
+      <td><a href= https://nl.wikipedia.org/wiki/Framboos>framboos</a></td>
       <td><img width="50px" src="https://www.ahealthylife.nl/wp-content/uploads/2017/06/frambozen_voedingswaarde.jpg"></td>
     </tr>
     <tr>
       <td>3</td>
-      <td><a href=https://nl.wikipedia.org/wiki/Watermeloen>watermeloen</a></td>
+      <td><a href= https://nl.wikipedia.org/wiki/Watermeloen>watermeloen</a></td>
       <td><img width="50px" src="https://www.ekonoom.nl/media/catalog/product/w/a/watermeloen2.jpg"></td>
     </tr>
     <tr>
       <td>4</td>
-      <td><a href=https://nl.wikipedia.org/wiki/Blauwe_bes>blauwe bes</a></td>
+      <td><a href= https://nl.wikipedia.org/wiki/Blauwe_bes>blauwe bes</a></td>
       <td><img width="50px" src="https://ochun.shop/image/cache/catalog/Producten/blauwe-bes-800x800.jpg"></td>
     </tr>
     <tr>
       <td>5</td>
-      <td><a href=https://nl.wikipedia.org/wiki/Aardbei>aardbei</a></td>
+      <td><a href= https://nl.wikipedia.org/wiki/Aardbei>aardbei</a></td>
       <td><img width="50px" src="https://www.vangeldernederland.nl/static/uploads-cms2/aardbeien-blog.jpg"></td>
     </tr>
   </table>
